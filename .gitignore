@@ -16,3 +16,5 @@
 .byebug_history
 
 .DS_store
+
+/vendor/bundle
